@@ -31,5 +31,5 @@ npm install
 npm run dev
 ```
 
-👨‍💻 Author
+👨‍💻 Author -
 Sudhakar P
